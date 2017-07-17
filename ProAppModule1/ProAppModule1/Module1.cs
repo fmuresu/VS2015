@@ -34,6 +34,7 @@ namespace ProAppModule1
             //TODO - add your business logic
             //return false to ~cancel~ Application close
             // Ciao a tutti!
+            // Belli e brutti
 
             return true;
         }
